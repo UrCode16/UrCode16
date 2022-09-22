@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @UrCode16
 - 👀 I’m interested in programming in python and trying new things
-- 🌱 I’m currently learning python and subnetting
+- 🌱 I’m currently learning networking, html, css, java, javascript, AI and ethical hacking
 - 📫 U can contact me on discord if u need anything: Happy366#5069
